@@ -1,0 +1,21 @@
+{
+  "name": "carhelper",
+  "version": "1.0.0",
+  "description": "Help every drive to enjoy car more",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/burymm/carhelper.git"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "latest",
+    "ejs": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "burymm",
+  "license": "ISC"
+}

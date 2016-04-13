@@ -1,0 +1,7 @@
+.row .row {
+    margin-left: 10px;
+}
+
+.value, .property {
+    display: inline;
+}
